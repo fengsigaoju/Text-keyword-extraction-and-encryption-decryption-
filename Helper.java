@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 import org.apache.commons.codec.binary.Base64;
-
+  
 import com.hankcs.hanlp.HanLP;
 
 public class Helper {
